@@ -8,6 +8,6 @@ void greet()
 
 int main()
 {
-	// message 2
+	// test message
 	greet();
 }
